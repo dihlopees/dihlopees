@@ -1,7 +1,10 @@
 
 Hiiii! I'm Ingrid ⚡⚡
 
-<img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </code> https://open.spotify.com/user/qvi2jylsg62wzd4mxvlqo1zhp?si=e8fd966525374eff
- ⚡
+
+- Cursando 2º periodo de Tecnologia e Analise de Sistemas na faculdade Integrado
+- Trabalho atualmente na empresa Viptech - Smart Solutions - https://www.viptech.com.br/
+- Estudando atualmente: VueJs - NodeJs - Javascript - Sass
+
 
 
