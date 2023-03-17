@@ -2,9 +2,9 @@
 <h1> Hiiii! I'm Ingrid ⚡⚡ </h1>
 
 
-- Cursando 2º periodo de Tecnologia e Analise de Sistemas na faculdade Integrado
+- Cursando 3º periodo de Tecnologia e Analise de Sistemas na faculdade Integrado
 - Trabalho atualmente na empresa Viptech - Smart Solutions - https://www.viptech.com.br/
-- Estudando: VueJs - NodeJs - Javascript - Sass
+- Atuando com: VueJs - NodeJs - Typescript
 
 <div> <h1> Me encontre em: </h1>
 <a href="https://www.instagram.com/dihlopees/" rel="insta">
