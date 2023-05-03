@@ -4,7 +4,7 @@
 
 - Cursando 3º periodo de Tecnologia e Analise de Sistemas na faculdade Integrado
 - Trabalho atualmente na empresa Viptech - Smart Solutions - https://www.viptech.com.br/
-- Atuando com: VueJs - NodeJs - Typescript
+- Atuando com: VueJs - NestJs - Typescript
 
 <div> <h1> Me encontre em: </h1>
 <a href="https://www.instagram.com/dihlopees/" rel="insta">
