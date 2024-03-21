@@ -2,7 +2,7 @@
 <h1> Hiiii! I'm Ingrid ⚡⚡ </h1>
 
 
-- Cursando 4º periodo de Tecnologia e Analise de Sistemas na faculdade Integrado
+- Cursando 5º e último periodo de Tecnologia e Analise de Sistemas na faculdade Integrado
 - Trabalho atualmente na empresa Viptech - Smart Solutions - https://www.viptech.com.br/
 - Atuando com: VueJs - NestJs - Typescript
 - Estudando: React e React Native
