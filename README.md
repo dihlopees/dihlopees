@@ -17,7 +17,8 @@
 
 <div>
 <h1> GitHub Stats :) </h1>
-<img src="https://github-readme-stats.vercel.app/api?username=dihlopees&show_icons=true&theme=radical">
+
+<img src="https://github-readme-stats.vercel.app/api?username=dihlopees&show_icons=true">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dihlopees&theme=radical">
 
